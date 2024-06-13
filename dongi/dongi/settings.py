@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # Local Apps
+    'main',
     'profile_app',
     'groups_management',
     'expenses_management',
